@@ -2,7 +2,7 @@ import "./style.css";
 
 document.querySelector("#app").innerHTML = `
   <div class="relative h-screen w-full flex items-center justify-center bg-cover bg-center text-center px-5"
-    style="background-image:url(https://images.pexels.com/photos/260689/pexels-photo-260689.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500);">
+    style="background-image:url(https://images.unsplash.com/photo-1596522354195-e84ae3c98731?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=887&q=80);">
     <div class="absolute top-0 right-0 bottom-0 left-0 bg-gray-900 opacity-75"></div>
 
     <div class="z-50 flex flex-col justify-center text-white w-full h-screen">
